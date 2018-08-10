@@ -24,6 +24,8 @@ This program uses HTML, CSS and JAVASCRIPT.
 4- if all numbers are different
    *input example-6,3,2
    *output example- scalene triangle formed
+ # link to gh-pages
+ https://abdirahman-mahat.github.io/triangle-tracker/
 ### License
 Copyright (c) {2018} **{pixels tech company}**
   
