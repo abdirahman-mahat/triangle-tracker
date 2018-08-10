@@ -1,5 +1,5 @@
 
-function getTriangleType(){
+function check_getTriangleType(){
 var a = parseFloat(prompt("side a"));
 var b = parseFloat(prompt("side b"));
 var c = parseFloat(prompt("side c"));
@@ -16,4 +16,3 @@ alert("This is No triangle formed");
   alert("This triangle is scalene");
 }
 }
-getTriangleType();
