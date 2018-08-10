@@ -16,7 +16,3 @@ alert("This is No triangle formed");
   alert("This triangle is scalene");
 }
 }
-var mankas = ["refresh this page", "again"]
-mankas.forEach(function(manka){
-  alert(manka)
-});
