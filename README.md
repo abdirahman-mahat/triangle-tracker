@@ -12,7 +12,7 @@ This program uses HTML, CSS and JAVASCRIPT.
 # Breakdown of project
 1- the program recognizes sum of lenghts of two numbers
    is less than one number
-   *input example-6,8,15 
+   *input example-6,8,15
    *output example- no triangle formed
 2- the program recognizes if all numbers are the same
    *input example-6,6,6
@@ -21,9 +21,8 @@ This program uses HTML, CSS and JAVASCRIPT.
     and one is different
     *input example-6,6,3
     *output example- isosceles triangle formed
-4- if all numbers are different
+4- the program recognizes if all numbers are different
    *input example-6,3,2
    *output example- scalene triangle formed
 ### License
 Copyright (c) {2018} **{pixels tech company}**
-  
